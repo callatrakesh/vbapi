@@ -1,0 +1,9 @@
+{
+    "users":[
+        {"id":1, "name":"Rakesh Kumar","email":"callatrakesh@gmail.com","password":"rakesh@123","phone":"9958604994","role":"administrator"}
+    ],
+    "posts": [],
+    "categories":[],    
+    "comments": [],
+    "inquiries":[]
+  }
